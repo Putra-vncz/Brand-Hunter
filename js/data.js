@@ -6,14 +6,14 @@ const brandsData = [
         categoryName: "Merek Tiruan Langsung",
         categoryNameEn: "Direct Imitation",
         originalBrand: "Adidas",
-        fakeBrand: "Adibas",
+        fakeBrand: "Abibas",
         originalImage: "foto fake brand/Kategori Merek Tiruan Langsung/Asli/Adidas.png",
-        fakeImage: "foto fake brand/Kategori Merek Tiruan Langsung/Palsu/Adibas.png",
-        description: "Adibas meniru merek Adidas dengan mengubah huruf 'd' menjadi 'b'. Logo three stripes juga ditiru dengan modifikasi minimal.",
+        fakeImage: "foto fake brand/Kategori Merek Tiruan Langsung/Palsu/Abibas.png",
+        description: "Abibas meniru merek Adidas dengan menukar posisi huruf 'd' dan 'b'. Logo three stripes juga ditiru dengan modifikasi minimal.",
         analysis: {
             persamaanPokoknya: true,
             elemenDitiru: [
-                "Nama merek yang sangat mirip secara fonetik (Adidas → Adibas)",
+                "Nama merek yang sangat mirip secara fonetik (Adidas → Abibas)",
                 "Logo three stripes yang ikonik",
                 "Tipografi dan gaya penulisan nama",
                 "Skema warna yang identik"
